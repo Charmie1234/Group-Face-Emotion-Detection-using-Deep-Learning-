@@ -1,6 +1,6 @@
 # Emotion_detection_with_CNN
 
-C:\\Users\\DELL\\Downloads\\image.jpg
+#C:\\Users\\DELL\\Downloads\\image.jpg
 
 ### Packages need to be installed
 - pip install numpy
