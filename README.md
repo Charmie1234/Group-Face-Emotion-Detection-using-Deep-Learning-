@@ -1,6 +1,7 @@
 # Emotion_detection_with_CNN
 
 ![image](https://github.com/Charmie1234/Group-Face-Emotion-Detection-using-Deep-Learning-/assets/136858550/78e57905-3d49-49a4-b8c3-f4de10a221a1)
+![Screenshot (462)](https://github.com/Charmie1234/Group-Face-Emotion-Detection-using-Deep-Learning-/assets/136858550/55b782d5-ccbc-4a72-bac8-6b838fbf292d)
 
 
 ### Packages need to be installed
